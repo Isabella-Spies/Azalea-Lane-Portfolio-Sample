@@ -2,7 +2,7 @@
 A goal based decorating game
 
 ## About:
-Azalea lane was a game that I started development of in late 2023. 
+I started development of Azalea Lane in late 2023. 
 I set out to make a game for a phone that was a to-do app that rewarded you for getting things done
 int the real world. You can add goals in your journal, complete them, then buy and place furniture in the room.
 
